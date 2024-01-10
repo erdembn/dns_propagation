@@ -30,7 +30,7 @@ To run this script, you need the following:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/<your-github-username>/dns_propagation.git
+   git clone https://github.com/erdembn/dns_propagation.git
    ```
 
 2. Open the Jupyter Notebook file dns_propagation.ipynb using Jupyter Notebook.
